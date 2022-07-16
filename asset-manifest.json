@@ -1,13 +1,13 @@
 {
-  "main.css": "/bmarti.github.io/static/css/main.a365e051.chunk.css",
-  "main.js": "/bmarti.github.io/static/js/main.32e2c150.chunk.js",
-  "main.js.map": "/bmarti.github.io/static/js/main.32e2c150.chunk.js.map",
-  "runtime~main.js": "/bmarti.github.io/static/js/runtime~main.2fc52929.js",
-  "runtime~main.js.map": "/bmarti.github.io/static/js/runtime~main.2fc52929.js.map",
-  "static/js/2.fb29e010.chunk.js": "/bmarti.github.io/static/js/2.fb29e010.chunk.js",
-  "static/js/2.fb29e010.chunk.js.map": "/bmarti.github.io/static/js/2.fb29e010.chunk.js.map",
-  "index.html": "/bmarti.github.io/index.html",
-  "precache-manifest.b74350fed6160d91a3578ea7a623afc9.js": "/bmarti.github.io/precache-manifest.b74350fed6160d91a3578ea7a623afc9.js",
-  "service-worker.js": "/bmarti.github.io/service-worker.js",
-  "static/css/main.a365e051.chunk.css.map": "/bmarti.github.io/static/css/main.a365e051.chunk.css.map"
+  "main.css": "/site/static/css/main.a365e051.chunk.css",
+  "main.js": "/site/static/js/main.32e2c150.chunk.js",
+  "main.js.map": "/site/static/js/main.32e2c150.chunk.js.map",
+  "runtime~main.js": "/site/static/js/runtime~main.de27f395.js",
+  "runtime~main.js.map": "/site/static/js/runtime~main.de27f395.js.map",
+  "static/js/2.fb29e010.chunk.js": "/site/static/js/2.fb29e010.chunk.js",
+  "static/js/2.fb29e010.chunk.js.map": "/site/static/js/2.fb29e010.chunk.js.map",
+  "index.html": "/site/index.html",
+  "precache-manifest.f05e98ee6af2f92eea099ba231ebde0c.js": "/site/precache-manifest.f05e98ee6af2f92eea099ba231ebde0c.js",
+  "service-worker.js": "/site/service-worker.js",
+  "static/css/main.a365e051.chunk.css.map": "/site/static/css/main.a365e051.chunk.css.map"
 }
