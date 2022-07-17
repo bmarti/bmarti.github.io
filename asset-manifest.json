@@ -1,5 +1,5 @@
 {
-  "main.css": "/bmarti-portfolio/static/css/main.a365e051.chunk.css",
+  "main.css": "/bmarti-portfolio/static/css/main.54bd92ee.chunk.css",
   "main.js": "/bmarti-portfolio/static/js/main.32e2c150.chunk.js",
   "main.js.map": "/bmarti-portfolio/static/js/main.32e2c150.chunk.js.map",
   "runtime~main.js": "/bmarti-portfolio/static/js/runtime~main.e52a0645.js",
@@ -7,7 +7,7 @@
   "static/js/2.fb29e010.chunk.js": "/bmarti-portfolio/static/js/2.fb29e010.chunk.js",
   "static/js/2.fb29e010.chunk.js.map": "/bmarti-portfolio/static/js/2.fb29e010.chunk.js.map",
   "index.html": "/bmarti-portfolio/index.html",
-  "precache-manifest.532387b0e6c8dee66c61e033f1301fdb.js": "/bmarti-portfolio/precache-manifest.532387b0e6c8dee66c61e033f1301fdb.js",
+  "precache-manifest.ec4954cbc73b9187706120802f04220c.js": "/bmarti-portfolio/precache-manifest.ec4954cbc73b9187706120802f04220c.js",
   "service-worker.js": "/bmarti-portfolio/service-worker.js",
-  "static/css/main.a365e051.chunk.css.map": "/bmarti-portfolio/static/css/main.a365e051.chunk.css.map"
+  "static/css/main.54bd92ee.chunk.css.map": "/bmarti-portfolio/static/css/main.54bd92ee.chunk.css.map"
 }

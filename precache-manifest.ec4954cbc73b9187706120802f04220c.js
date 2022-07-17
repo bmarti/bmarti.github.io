@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d39e2c46eedf799cc2e4",
-    "url": "/bmarti-portfolio/static/css/main.a365e051.chunk.css"
+    "revision": "bcb0a1ca82402dc9e3db",
+    "url": "/bmarti-portfolio/static/css/main.54bd92ee.chunk.css"
   },
   {
-    "revision": "d39e2c46eedf799cc2e4",
+    "revision": "bcb0a1ca82402dc9e3db",
     "url": "/bmarti-portfolio/static/js/main.32e2c150.chunk.js"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/bmarti-portfolio/static/js/2.fb29e010.chunk.js"
   },
   {
-    "revision": "3892d9c05586111a6f24afaf758fcbcb",
+    "revision": "787d9a7eaec8f3f5b4f458d201e7bf38",
     "url": "/bmarti-portfolio/index.html"
   }
 ];
